@@ -18,6 +18,7 @@ main ( int argc, char *argv[] )
 
     printf("My name is Raisto !\n");
     printf("I am localhost !\n");
+    printf("I am network !\n")
 
     return EXIT_SUCCESS;
 }       /* ----------  end of function main  ---------- */
